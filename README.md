@@ -1,6 +1,6 @@
 <img src = "programming.gif" width = "325px" align = "right">
 
-# ❤ Ola, Seja bem vindo/a :D
+# ❤ Olá, Seja bem vindo/a :D
   <div id="badges">
   <a href = "https://www.linkedin.com/in/jean-rolim-de-amorim-38599a190/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
