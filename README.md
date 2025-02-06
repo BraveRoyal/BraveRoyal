@@ -1,17 +1,14 @@
 <img src = "programming.gif" width = "325px" align = "right">
 
-# ❤ Olá, Seja bem vindo/a :D
+# ❤ Hello, Welcome :D
   <div id="badges">
   <a href = "https://www.linkedin.com/in/jean-rolim-de-amorim-38599a190/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-Sou desenvolvedor fullstack, mas gosto de programar em mobile também
-
-- ❤ Desenvolvedor FullStack
-- 💙 Fã de Pixel Art (Porém não sei fazer)
-- 👩‍💻 Sempre em busca de evolução
+- ❤ Full Stack Web Developer.
+- 👩‍💻 Always seeking growth and improvement.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJs" alt="VueJs" width="60" height="60"/>&nbsp;
